@@ -1,0 +1,31 @@
+{
+  "name": "poornima_react_assignment",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "client": "npm start --prefix ./shopping-cart",
+    "app": "concurrently \"npm start\" \"npm run client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Poorni766764@bitbucket.org/poorni766764/poornima_react_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/poorni766764/poornima_react_assignment/issues"
+  },
+  "homepage": "https://bitbucket.org/poorni766764/poornima_react_assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "concurrently": "^7.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node": "^19.0.0",
+    "nodemon": "^2.0.20"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato",
+    "type": "Vegetable",
+    "img": "../images/tomato.png",
+    "unit": "1KG",
+    "description": "Slightly acidic. Rich in carotene. Suited for South Indian style cooking.",
+    "available": 255,
+    "price": 30
+  },
+  {
+    "id": 2,
+    "name": "Onion",
+    "type": "Vegetable",
+    "img": "../images/onion.png",
+    "unit": "1KG",
+    "description": "Aids in reducing inflammation. Ideal for home cooking.",
+    "available": 26,
+    "price": 55
+  },
+  {
+    "id": 3,
+    "name": "Potato",
+    "type": "Vegetable",
+    "img": "../images/potato.png",
+    "unit": "1KG",
+    "description": "Uniform sandy texture, no lumps, great taste. Rich in potassium.",
+    "available": 116,
+    "price": 60
+  },
+  {
+    "id": 4,
+    "name": "Green Apples",
+    "type": "Fruit",
+    "img": "../images/apple.png",
+    "unit": "500g",
+    "description": "Rich in Vitamin A, B, and C. Shelf life - 2 days when refrigerated(2-4°C)",
+    "available": 75,
+    "price": 210
+  },
+  {
+    "id": 5,
+    "name": "Banana",
+    "type": "Fruit",
+    "img": "../images/banana.png",
+    "unit": "500g",
+    "description": "Sweet tasting and rich in Vitamin C, healthy fats, and potassium.",
+    "available": 110,
+    "price": 50
+  },
+  {
+    "id": 6,
+    "name": "Kiwi",
+    "file": "kiwi",
+    "img": "../images/kiwi.png",
+    "unit": "250g",
+    "description": "Tangy-sweet in taste. Shelf life - 2 days when refrigerated(2-4°C).",
+    "available": 179,
+    "price": 100
+  },
+  {
+    "id": 7,
+    "name": "Tur Dal",
+    "type": "Groceries",
+    "img": "../images/dal.png",
+    "unit": "1KG",
+    "description": "Tur Dal is the most common dal found in homes. It is very nutritive.",
+    "available": 70,
+    "price": 110
+  },
+  {
+    "id": 8,
+    "name": "Nestle Milkmaid",
+    "type": "Groceries",
+    "img": "../images/milkmaid.png",
+    "unit": "500g",
+    "description": "Made from double toned milk, it gives you the right taste and nutrition.",
+    "available": 90,
+    "price": 150
+  },
+  {
+    "id": 9,
+    "name": "Sunflower Oil",
+    "type": "Groceries",
+    "img": "../images/oil.png",
+    "unit": "5l",
+    "description": "Sunflower Oil is a healthy and nutritious oil. It makes you feel light.",
+    "available": 90,
+    "price": 850
+  }
+]
